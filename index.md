@@ -286,6 +286,8 @@ for more information.
 
 {% endif %}
 
+<hr/>
+
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
@@ -296,6 +298,8 @@ for more information.
 <p>
   After the workshop, please fill out <a href="https://carpentries.github.io/instructor-training/06-feedback/#surveys">our post-assessment survey</a>.
 </p>
+
+<hr/>
 
 <h2 id="registration">Registration</h2>
 
