@@ -220,9 +220,6 @@ for more information.
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
 
-
-<hr/>
-
 <!--
 
 <div class="row">
@@ -280,7 +277,6 @@ for more information.
   e.g., '2015-06-10-esu'.
 -->
 {% if page.etherpad %}
-<hr/>
 
 <p id="etherpad">
   <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
