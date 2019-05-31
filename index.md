@@ -300,3 +300,9 @@ for more information.
 <p>
   After the workshop, please fill out <a href="https://carpentries.github.io/instructor-training/06-feedback/#surveys">our post-assessment survey</a>.
 </p>
+
+<h2 id="registration">Registration</h2>
+
+<p>
+  To register for this workshop please complete this <a href="https://docs.google.com/forms/d/1FHSp54cbzk6Z1VaYbJqss2f5CW8Ty5tY4roTAS4RwEY">short registration form</a>.
+</p>
